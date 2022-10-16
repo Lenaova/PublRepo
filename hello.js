@@ -14,3 +14,5 @@ function culc(a, b, sign) {
 //log1
 console.log(culc(12, 8, "+"));
 //hellokitty
+//log2
+console.log(culc(5, 7, "+"));
