@@ -11,3 +11,5 @@ function culc(a, b, sign) {
     }    
     return res
 }
+
+console.log(culc(2, 4, "+"));
