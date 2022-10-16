@@ -11,5 +11,6 @@ function culc(a, b, sign) {
     }    
     return res
 }
-
-console.log(culc(2, 4, "+"));
+//log1
+console.log(culc(12, 8, "+"));
+//hellokitty
