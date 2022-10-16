@@ -16,3 +16,4 @@ console.log(culc(12, 8, "+"));
 //hellokitty
 //log2
 console.log(culc(5, 7, "+"));
+console.log(culc(2, 6, "+"));
